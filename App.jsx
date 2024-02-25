@@ -11,9 +11,13 @@ const AppLayout = () => {
     );
 };
 
-
+//git init
+//git remote
+// git add . 
+//git commit 
+//git push -
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<Heading/>);
+root.render(<AppLayout/>);
 
 
 
